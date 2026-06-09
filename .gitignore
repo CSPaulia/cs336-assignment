@@ -161,3 +161,12 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+# logging
+# wandb/
+
+# data
+data/
+
+# checkpoints
+ckpts/
