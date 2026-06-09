@@ -55,6 +55,8 @@ cd ..
 
 ## Response to the assignment questions
 
+[training curves on WandB](https://wandb.ai/paulia-s-team/cs336-assignment1?nw=nwusercspaulia)
+
 ![training_curves](./assets/train_loss.png)
 
 Setting | Val Loss
